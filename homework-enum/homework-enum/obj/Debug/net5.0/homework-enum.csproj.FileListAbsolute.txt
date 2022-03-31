@@ -1,0 +1,16 @@
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\bin\Debug\net5.0\homework-enum.exe
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\bin\Debug\net5.0\homework-enum.deps.json
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\bin\Debug\net5.0\homework-enum.runtimeconfig.json
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\bin\Debug\net5.0\homework-enum.runtimeconfig.dev.json
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\bin\Debug\net5.0\homework-enum.dll
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\bin\Debug\net5.0\ref\homework-enum.dll
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\bin\Debug\net5.0\homework-enum.pdb
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\obj\Debug\net5.0\homework-enum.csproj.AssemblyReference.cache
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\obj\Debug\net5.0\homework-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\obj\Debug\net5.0\homework-enum.AssemblyInfoInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\obj\Debug\net5.0\homework-enum.AssemblyInfo.cs
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\obj\Debug\net5.0\homework-enum.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\obj\Debug\net5.0\homework-enum.dll
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\obj\Debug\net5.0\ref\homework-enum.dll
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\obj\Debug\net5.0\homework-enum.pdb
+C:\Users\Sahil\Desktop\Classroom1\Enum\homework-enum\homework-enum\obj\Debug\net5.0\homework-enum.genruntimeconfig.cache
